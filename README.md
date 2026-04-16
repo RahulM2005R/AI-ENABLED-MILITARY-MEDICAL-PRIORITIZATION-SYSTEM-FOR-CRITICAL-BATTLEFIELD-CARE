@@ -39,6 +39,20 @@ While the core functionalities such as severity prediction and basic decision su
 
 ---
 
+## Datasets
+
+This project uses publicly available medical datasets:
+
+- PhysioNet (physiological signals like heart rate, BP, SpO₂)  
+- MIMIC-III / MIMIC-IV (clinical patient data)  
+
+Due to size and access restrictions, datasets are not included in this repository.
+
+- PhysioNet: https://physionet.org/  
+- MIMIC Dataset: https://physionet.org/content/mimiciv/
+
+---
+
 ## Objective
 
 The primary objective of this project is to assist in faster and more reliable medical decision-making during emergency situations. By reducing delays and supporting prioritization, the system aims to improve response efficiency, especially during the critical “golden hour.”
